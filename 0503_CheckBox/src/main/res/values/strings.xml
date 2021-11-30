@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">5.03 HobbySel</string>
+    <string name="myname">07號林逸平</string>
+    <string name="chb01">音樂</string>
+    <string name="chb02">唱歌</string>
+    <string name="chb03">跳舞</string>
+    <string name="chb04">旅行</string>
+    <string name="b001">確定</string>
+    <string name="t001">喜好：</string>
+</resources>
